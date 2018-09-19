@@ -19,4 +19,3 @@ class Student
   end
 
 end
-
